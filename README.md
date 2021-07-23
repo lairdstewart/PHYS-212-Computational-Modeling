@@ -1,4 +1,4 @@
-# Computational-Modeling-PHYS-212
+# Computational Modeling (PHYS 212 @Emory)
 
 Project 1: In this project I solve the problem of finding the resting position of a moving cart on the cable of a bridge. The bridge has a catenary shape and the cart has a built in motor. The cart will start at some point along the cable of the bridge and its built in motor will carry it untill it stops or reaches the top of one side or the other. This model is deterministic, static and continuous in space.
 
